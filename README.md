@@ -10,7 +10,6 @@ Kick-off: June 18th
 Return the minimum number of students not standing in the right positions.  (This is the number of students that must move in order for all students to be standing in non-decreasing order of height.)
 
 ## Day 3
-
 >1. Every email consists of a local name and a domain name, separated by the @ sign.
 For example, in alice@leetcode.com, alice is the local name, and leetcode.com is the domain name.
 Besides lowercase letters, these emails may contain '.'s or '+'s.
@@ -19,3 +18,5 @@ If you add a plus ('+') in the local name, everything after the first plus sign 
 It is possible to use both of these rules at the same time.
 Given a list of emails, we send one email to each address in the list.  How many different addresses actually receive mails? 
 
+## Day 4
+>1. Given an array of integers A sorted in non-decreasing order, return an array of the squares of each number, also in sorted non-decreasing order.
