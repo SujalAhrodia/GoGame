@@ -26,3 +26,7 @@ Given a list of emails, we send one email to each address in the list.  How many
     F(N) = F(N - 1) + F(N - 2), for N > 1.
     ```
     Given N, calculate F(N).
+
+## Day 5
+>1. Given a linked list, determine if it has a cycle in it.
+To represent a cycle in the given linked list, we use an integer pos which represents the position (0-indexed) in the linked list where tail connects to. If pos is -1, then there is no cycle in the linked list.
