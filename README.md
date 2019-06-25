@@ -30,3 +30,9 @@ Given a list of emails, we send one email to each address in the list.  How many
 ## Day 5
 >1. Given a linked list, determine if it has a cycle in it.
 To represent a cycle in the given linked list, we use an integer pos which represents the position (0-indexed) in the linked list where tail connects to. If pos is -1, then there is no cycle in the linked list.
+
+## Day6
+>1. Write a function that reverses a string. The input string is given as an array of characters char[].
+Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
+You may assume all the characters consist of printable ascii characters.
+
