@@ -36,3 +36,6 @@ To represent a cycle in the given linked list, we use an integer pos which repre
 Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
 You may assume all the characters consist of printable ascii characters.
 
+## Day 7
+>1. Given a non-empty, singly linked list with head node head, return a middle node of linked list.
+If there are two middle nodes, return the second middle node.
