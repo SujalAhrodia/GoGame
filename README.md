@@ -39,3 +39,9 @@ You may assume all the characters consist of printable ascii characters.
 ## Day 7
 >1. Given a non-empty, singly linked list with head node head, return a middle node of linked list.
 If there are two middle nodes, return the second middle node.
+
+## Day 8
+>1. Given a string S of lowercase letters, a duplicate removal consists of choosing two adjacent and equal letters, and removing them.
+We repeatedly make duplicate removals on S until we no longer can.
+Return the final string after all such duplicate removals have been made.  It is guaranteed the answer is unique.
+
