@@ -45,3 +45,5 @@ If there are two middle nodes, return the second middle node.
 We repeatedly make duplicate removals on S until we no longer can.
 Return the final string after all such duplicate removals have been made.  It is guaranteed the answer is unique.
 
+## Day 9
+>1. Given a non-empty binary tree, return the average value of the nodes on each level in the form of an array.
