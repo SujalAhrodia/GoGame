@@ -49,3 +49,6 @@ Return the final string after all such duplicate removals have been made.  It is
 >1. Given a non-empty binary tree, return the average value of the nodes on each level in the form of an array.
 >2. Given the root node of a binary search tree, return the sum of values of all nodes with value between L and R (inclusive).
 The binary search tree is guaranteed to have unique values.
+
+## Day 10
+>1. Given the root node of a binary search tree (BST) and a value. You need to find the node in the BST that the node's value equals the given value. Return the subtree rooted with that node. If such node doesn't exist, you should return NULL.
