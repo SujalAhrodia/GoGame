@@ -52,3 +52,6 @@ The binary search tree is guaranteed to have unique values.
 
 ## Day 10
 >1. Given the root node of a binary search tree (BST) and a value. You need to find the node in the BST that the node's value equals the given value. Return the subtree rooted with that node. If such node doesn't exist, you should return NULL.
+>2. Given a binary tree, each node has value 0 or 1.  Each root-to-leaf path represents a binary number starting with the most significant bit.  For example, if the path is 0 -> 1 -> 1 -> 0 -> 1, then this could represent 01101 in binary, which is 13.
+For all leaves in the tree, consider the numbers represented by the path from the root to that leaf.
+Return the sum of these numbers.
