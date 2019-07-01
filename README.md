@@ -60,3 +60,5 @@ You need to merge them into a new binary tree. The merge rule is that if two nod
 
 ## Day 11
 >1. Invert a binary tree.
+>2. A binary tree is univalued if every node in the tree has the same value.
+Return true if and only if the given tree is univalued.
