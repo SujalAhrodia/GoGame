@@ -62,3 +62,7 @@ You need to merge them into a new binary tree. The merge rule is that if two nod
 >1. Invert a binary tree.
 >2. A binary tree is univalued if every node in the tree has the same value.
 Return true if and only if the given tree is univalued.
+
+## Day 12
+>1. Given a n-ary tree, find its maximum depth.
+The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
