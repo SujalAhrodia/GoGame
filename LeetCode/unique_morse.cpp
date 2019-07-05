@@ -1,3 +1,5 @@
+// first solution
+
 class Solution {
 public:
     vector<string> table{".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."};
@@ -20,5 +22,26 @@ public:
         temp.erase(itr, temp.end());
 
         return temp.size();       
+    }
+};
+
+// short solution
+class Solution {
+public:
+    vector<string> table{".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."};
+    
+    int uniqueMorseRepresentations(vector<string>& words) 
+    {
+        vector<string> temp;
+        unordered_set<string> ans;
+        
+        for(string str : words)
+        {
+            string temp1 = "";
+            for(char ch : str)
+                temp1+= table[ch-'a'];
+            ans.insert(temp1);
+        }
+        return ans.size();       
     }
 };
