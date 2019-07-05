@@ -72,3 +72,7 @@ The maximum depth is the number of nodes along the longest path from the root no
     ```
     Now, given a list of words, each word can be written as a concatenation of the Morse code of each letter. For example,     "cba" can be written as "-.-..--...", (which is the concatenation "-.-." + "-..." + ".-"). We'll call such a concatenation, the transformation of a word.
 Return the number of different transformations among all words we have.
+
+## Day 13
+>1. In a array A of size 2N, there are N+1 unique elements, and exactly one of these elements is repeated N times.
+Return the element repeated N times.
