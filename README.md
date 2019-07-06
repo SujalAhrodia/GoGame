@@ -76,3 +76,7 @@ Return the number of different transformations among all words we have.
 ## Day 13
 >1. In a array A of size 2N, there are N+1 unique elements, and exactly one of these elements is repeated N times.
 Return the element repeated N times.
+
+## Day 14
+>1. Given a matrix A, return the transpose of A.
+The transpose of a matrix is the matrix flipped over it's main diagonal, switching the row and column indices of the matrix.
