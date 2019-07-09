@@ -97,3 +97,4 @@ Choosing any x with 0 < x < N and N % x == 0.
 Replacing the number N on the chalkboard with N - x.
 Also, if a player cannot make a move, they lose the game.
 Return True if and only if Alice wins the game, assuming both players play optimally.
+>2. Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
