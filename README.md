@@ -98,3 +98,8 @@ Replacing the number N on the chalkboard with N - x.
 Also, if a player cannot make a move, they lose the game.
 Return True if and only if Alice wins the game, assuming both players play optimally.
 >2. Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+
+## Day 17
+>1. On a staircase, the i-th step has some non-negative cost cost[i] assigned (0 indexed).
+Once you pay the cost, you can either climb one or two steps. You need to find minimum cost to reach the top of the floor, and you can either start from the step with index 0, or the step with index 1.
+For complete question, click [here](https://leetcode.com/problems/min-cost-climbing-stairs/)
