@@ -108,3 +108,9 @@ For complete question, click [here](https://leetcode.com/problems/min-cost-climb
 ## Day 18
 >1. You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security system connected and it will automatically contact the police if two adjacent houses were broken into on the same night.
 Given a list of non-negative integers representing the amount of money of each house, determine the maximum amount of money you can rob tonight without alerting the police.
+
+## Day 19
+>1. Consider all the leaves of a binary tree.  From left to right order, the values of those leaves form a leaf value sequence.
+For example, in the given tree above, the leaf value sequence is (6, 7, 4, 9, 8).
+Two binary trees are considered leaf-similar if their leaf value sequence is the same.
+Return true if and only if the two given trees with head nodes root1 and root2 are leaf-similar.
