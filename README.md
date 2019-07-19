@@ -114,3 +114,7 @@ Given a list of non-negative integers representing the amount of money of each h
 For example, in the given tree above, the leaf value sequence is (6, 7, 4, 9, 8).
 Two binary trees are considered leaf-similar if their leaf value sequence is the same.
 Return true if and only if the two given trees with head nodes root1 and root2 are leaf-similar.
+
+## Day 20
+>1. The Hamming distance between two integers is the number of positions at which the corresponding bits are different.
+Given two integers x and y, calculate the Hamming distance.
