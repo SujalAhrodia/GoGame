@@ -127,3 +127,4 @@ Find the letter that was added in t.
 Note:
 Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
 >3. Given a positive integer, check whether it has alternating bits: namely, if two adjacent bits will always have different values.
+>4. There are n bulbs that are initially off. You first turn on all the bulbs. Then, you turn off every second bulb. On the third round, you toggle every third bulb (turning on if it's off or turning off if it's on). For the i-th round, you toggle every i bulb. For the n-th round, you only toggle the last bulb. Find how many bulbs are on after n rounds.
