@@ -133,6 +133,3 @@ Formally, each room i has a list of keys rooms[i], and each key rooms[i][j] is a
 Initially, all the rooms start locked (except for room 0). 
 You can walk back and forth between rooms freely.
 Return true if and only if you can enter every room.
-
-## Day22
->1. Reverse a singly linked list.
